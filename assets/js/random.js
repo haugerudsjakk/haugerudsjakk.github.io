@@ -1,7 +1,7 @@
 
 setTimeout(function() {
     var theLetters = "DSCHXБГДЗИКЛЧЪЯ:::ABEHILNPTY"; //You can customize what letters it will cycle through
-    var ctnt = "Haugerud Sjakk"; // Your text goes here
+    var ctnt = "Haugerud"; // Your text goes here
     var speed = 100; // ms per frame
     var increment = 4; // frames per step. Must be >2
 
@@ -43,7 +43,7 @@ setTimeout(function() {
 
 setTimeout(function() {
     var theLetters = "abcdefghijklmnopqrstuvwxyzæøå1234567890:."; //You can customize what letters it will cycle through
-    var ctnt = "HAUGERUD IF & UNGDOMMENS SJAKKFORBUND"; // Your text goes here
+    var ctnt = "Sjakkforrening"; // Your text goes here
     var speed = 15; // ms per frame
     var increment = 2; // frames per step. Must be >2
 
