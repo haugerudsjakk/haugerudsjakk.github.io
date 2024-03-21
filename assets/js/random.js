@@ -1,7 +1,7 @@
 
 setTimeout(function() {
     var theLetters = "DSCHXБГДЗИКЛЧЪЯ:::ABEHILNPTY"; //You can customize what letters it will cycle through
-    var ctnt = "DSCH:X"; // Your text goes here
+    var ctnt = "Haugerud Sjakk"; // Your text goes here
     var speed = 100; // ms per frame
     var increment = 4; // frames per step. Must be >2
 
