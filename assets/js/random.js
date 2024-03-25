@@ -43,7 +43,7 @@ setTimeout(function() {
 
 setTimeout(function() {
     var theLetters = "♖♘♗♕♔♗♘♖♙♟♜♞♝♛♚♝♞♜"; //You can customize what letters it will cycle through
-    var ctnt = "Haugerud Sjakkforrening"; // Your text goes here
+    var ctnt = "Haugerud Sjakkforening"; // Your text goes here
     var speed = 15; // ms per frame
     var increment = 2; // frames per step. Must be >2
 
